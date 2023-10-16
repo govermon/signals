@@ -1,0 +1,7 @@
+alpha-vantage
+python-dotenv
+numpy
+matplotlib
+ipykernel
+pandas
+pandas-datareader
